@@ -1,9 +1,9 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=D:\program\flutter"
-export "FLUTTER_APPLICATION_PATH=D:\ajanuw\flutter_video_box\example"
+export "FLUTTER_ROOT=/Users/mohmedel-sayed/FlutterDev/flutter3.13.6"
+export "FLUTTER_APPLICATION_PATH=/Volumes/Data 1/apps/custom_pakages/flutter_video_box/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=lib\main.dart"
+export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
